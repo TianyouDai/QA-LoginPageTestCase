@@ -1,5 +1,5 @@
 # QA-LoginPageTestCase
-The test case is to check that whether inputted email address and password are valid or not for Project QA-LoginPage. According to requirements, the lengths of email address and password are 2 to 20 characters and 6 to 40 characters, respectively.
+The following test cases check that whether inputted email address and password are valid or not for Project QA-LoginPage. According to requirements, the lengths of email address and password are 2 to 20 characters and 6 to 40 characters, respectively.
 
 ### Test Case 1 - Verify the user can login successfully with email address and password. 
 
